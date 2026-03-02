@@ -5,4 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
