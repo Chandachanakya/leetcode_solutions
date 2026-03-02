@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0507-perfect-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
