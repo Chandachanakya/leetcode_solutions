@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
