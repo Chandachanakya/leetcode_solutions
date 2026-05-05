@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
