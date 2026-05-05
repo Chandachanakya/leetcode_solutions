@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0118-pascals-triangle) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0242-valid-anagram) |
