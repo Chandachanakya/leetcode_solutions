@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0231-power-of-two) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0704-binary-search) |
