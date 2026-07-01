@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chandachanakya/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chandachanakya/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Chandachanakya/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0704-binary-search) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Chandachanakya/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Chandachanakya/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -182,8 +185,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Chandachanakya/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Chandachanakya/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Chandachanakya/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Chandachanakya/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
